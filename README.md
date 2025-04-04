@@ -11,7 +11,7 @@ Welcome to my portfolio website! This is a showcase of my work, skills, and expe
 
  🌐 Live Demo
 
-You can view the live portfolio here - (https://your-portfolio-link.com).
+You can view the live portfolio here - https://omomayorwah.github.io/index.html.
 
  📁 Installation
 
