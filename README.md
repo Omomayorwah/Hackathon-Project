@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
   $ git clone https://github.com/Omomayorwah/Hackathon-Project.git
 2. Navigate to the project folder:
-   $  cd your-portfolio
+   $  cd Hackathon-Project
 3. Open ‘index.html’ in your web browser.
 
 🛠️ Technologies Used
